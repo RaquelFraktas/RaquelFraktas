@@ -6,6 +6,9 @@ Welcome to my github.
 * My personal site
 * Updating my capstone project to be mobile friendly
 
+Feel free to reach out on LinkedIn for any qs
+https://www.linkedin.com/in/raquelfraktas/ 
+
 
 <!--
 **RaquelFraktas/RaquelFraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
