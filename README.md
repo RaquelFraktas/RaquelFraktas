@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my github.
+- 🔭 I’m currently working on ...
+* My personal site
+* Updating my capstone project to be mobile friendly
+
+
 <!--
 **RaquelFraktas/RaquelFraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
