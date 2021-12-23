@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my github.
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 * My personal site
 * Updating my capstone project to be mobile friendly
 
