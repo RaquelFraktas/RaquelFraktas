@@ -6,6 +6,13 @@ Welcome to my github.
 * My personal site
 * Updating my capstone project to be mobile friendly
 
+
+<br><br>
+🌱 I’m currently learning ...
+* SCSS
+* PHP
+
+
 Feel free to reach out on LinkedIn for any qs
 https://www.linkedin.com/in/raquelfraktas/ 
 
