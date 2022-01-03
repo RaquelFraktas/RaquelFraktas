@@ -12,7 +12,8 @@ Welcome to my github.
 * SCSS
 * PHP
 
-📫 Feel free to reach out on LinkedIn for any qs...
+📫 Feel free to reach out on LinkedIn for any qs:
+<br>
 https://www.linkedin.com/in/raquelfraktas/ 
 
 
