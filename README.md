@@ -11,6 +11,7 @@ Welcome to my github.
 🌱 I’m currently learning ...
 * SCSS
 * PHP
+* TypeScript
 
 📫 Feel free to reach out on LinkedIn for any qs:
 <br>
