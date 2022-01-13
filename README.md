@@ -8,12 +8,12 @@ Welcome to my github.
 
 
 <br><br>
-#🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
 * SCSS
 * PHP
 * TypeScript
 
-#📫 Feel free to reach out on LinkedIn for any qs:
+# 📫 Feel free to reach out on LinkedIn for any qs:
 <br>
 https://www.linkedin.com/in/raquelfraktas/ 
 
