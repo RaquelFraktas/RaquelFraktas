@@ -13,6 +13,7 @@ Welcome to my github.
 * SCSS
 * PHP
 * TypeScript
+* Unit testing
 
 ### 📫 Feel free to reach out on LinkedIn for any qs:
 <br>
