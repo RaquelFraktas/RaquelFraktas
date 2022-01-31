@@ -10,7 +10,6 @@ Welcome to my github.
 
 <br><br>
 ### 🌱 I’m currently learning ...
-* SCSS
 * PHP
 * TypeScript
 * Unit testing
