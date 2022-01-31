@@ -12,6 +12,7 @@ Welcome to my github.
 ### 🌱 I’m currently learning ...
 * PHP
 * TypeScript
+* Node.js
 * Unit testing
 
 ### 📫 Feel free to reach out on LinkedIn for any qs:
