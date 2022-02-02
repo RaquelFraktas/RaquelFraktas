@@ -11,6 +11,7 @@ Welcome to my github.
 <br><br>
 ### 🌱 I’m currently learning ...
 * PHP
+* JQuery
 * TypeScript
 * Node.js
 * Unit testing
