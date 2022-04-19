@@ -3,8 +3,6 @@
 Welcome to my github.
 <br><br>
 
-I'm the Junior Software Engineer at Mavenseed.
-
 <!-- ### 🔭 I’m currently working on ...
 * My personal site
 * Updating my capstone project to be mobile friendly
