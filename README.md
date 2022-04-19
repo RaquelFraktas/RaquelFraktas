@@ -3,7 +3,9 @@
 Welcome to my github.
 <br><br>
 
-### 🔭 I’m currently working on ...
+I'm the Junior Software Engineer at Mavenseed.
+
+<!-- ### 🔭 I’m currently working on ...
 * My personal site
 * Updating my capstone project to be mobile friendly
 
@@ -15,6 +17,7 @@ Welcome to my github.
 * TypeScript
 * Node.js
 * Unit testing
+-->
 
 ### 📫 Feel free to reach out on LinkedIn for any qs:
 <br>
