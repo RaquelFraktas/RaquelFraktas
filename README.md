@@ -40,11 +40,10 @@ Badges courtesy of [Ileriayo](https://github.com/Ileriayo/markdown-badges)
 * Node.js
 * Unit testing
 -->
+<hr >
 
-### 📫 Feel free to reach out on LinkedIn for any qs:
-<br>
+📫 Feel free to reach out on LinkedIn for any qs:
 https://www.linkedin.com/in/raquelfraktas/ 
-
 
 <!--
 **RaquelFraktas/RaquelFraktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
